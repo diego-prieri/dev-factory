@@ -1,0 +1,7 @@
+{
+  "name": "factory-core",
+  "version": "0.1.0",
+  "description": "Skills para redactar specs: spec-builder (documentación fundada en el código real, iterativa) y spec-package (requerimiento, criterios, diseño y plan).",
+  "author": { "name": "Diego Prieri" },
+  "license": "MIT"
+}

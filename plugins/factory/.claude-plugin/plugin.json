@@ -1,0 +1,7 @@
+{
+  "name": "factory",
+  "version": "0.1.0",
+  "description": "Pipelines de desarrollo: doc funcional → spec → implementación con review por paso → PR, y punteo de bugs → triage por causa raíz → fix con test rojo primero.",
+  "author": { "name": "Diego Prieri" },
+  "license": "MIT"
+}

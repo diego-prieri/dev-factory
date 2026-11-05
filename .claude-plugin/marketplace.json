@@ -1,0 +1,12 @@
+{
+  "name": "dev-factory",
+  "owner": { "name": "Diego Prieri" },
+  "metadata": {
+    "description": "Fábrica de software para Claude Code: de la doc funcional al PR y del punteo de QA al fix, con gates de review y convenciones por repo.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    { "name": "factory-core", "source": "./plugins/factory-core", "description": "Skills para redactar specs: spec-builder (con scout de código, iterativa) y spec-package (paquete liviano de 4 capas)." },
+    { "name": "factory", "source": "./plugins/factory", "description": "Pipelines /factory:feature-spec → feature-build y /factory:bug-triage → bug-fix, con sus subagentes, método y plantilla de convenciones." }
+  ]
+}
